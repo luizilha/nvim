@@ -5,3 +5,4 @@ vim.cmd("set shiftwidth=2")
 vim.cmd("set mouse=")
 vim.cmd("set number")
 vim.g.mapleader = ","
+vim.g.codeium_manual = true
